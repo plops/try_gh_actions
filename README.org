@@ -1,0 +1,5 @@
+- goal: run sbcl with github actions
+
+- also try to get interactive login into the vm
+
+- https://docs.github.com/en/actions/quickstart
